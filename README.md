@@ -1,7 +1,7 @@
 # Ubuntu 22.04 LTS - .conkyrc
 My personal Conky configuration for Ubuntu 22.04 LTS
 
-<p align="center"><img heigth="450" src="(conky-preview.png)"></p>
+<p align="center"><img heigth="450" src="conky-preview.png"></p>
 
 This repository contains the configuration file (``.conkyrc```) for Conky, a lightweight system monitor for Linux. The `.conkyrc` file provides the settings and customization options for Conky to display various system information on your desktop.
 
