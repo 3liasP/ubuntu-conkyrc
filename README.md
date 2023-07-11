@@ -35,7 +35,7 @@ cp ubuntu-conkyrc/.conkyrc ~/.conkyrc
 ```
 3. Install icon font:
   - Download and extract: [ConkySymbols.ttf.tar.gz](https://github.com/Mic92/awesome-dotfiles/releases/tag/download)
-  - Install the font to your system (in Ubuntu, simply by double-clicking the file) to render the icons
+  - Install the font to your system (in Ubuntu, simply by double-clicking the .ttf file) to render the icons
 
 5. Launch Conky:
 
